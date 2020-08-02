@@ -41,4 +41,9 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
  ## Election-Audit Summary:
-
+This script while focusing on specific voter turnout and votes for individual counties can be modified to include additional analysis based on access to additional data.  For example, with additional data, this script could be modified to:
+- Include voting method: 
+    - There are three main ways of collecting votes - Mail-In Ballots, Punch Cards, or Direct Recording Electric.  By collecting this data and including it in the analysis to understand how many voters utilize each voting type, it would  help allocate staffing resources more effectively.
+- Include Political Party:
+   - To understand the trends beyond just voting for a specific candidate, if the candidate's political party was included, we could analyze how many voters voted by party lines.  If this data was taken over several years, it would provide historical information and insight into voting trends by party over the years.
+  
