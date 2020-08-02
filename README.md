@@ -46,4 +46,6 @@ This script while focusing on specific voter turnout and votes for individual co
     - There are three main ways of collecting votes - Mail-In Ballots, Punch Cards, or Direct Recording Electric.  By collecting this data and including it in the analysis to understand how many voters utilize each voting type, it would  help allocate staffing resources more effectively.
 - Include Political Party:
    - To understand the trends beyond just voting for a specific candidate, if the candidate's political party was included, we could analyze how many voters voted by party lines.  If this data was taken over several years, it would provide historical information and insight into voting trends by party over the years.
+- Expand to different election types:
+  - If we wanted to increase the election from a state to federal level, you could amend the code to look data from the state level rather than the county level.
   
